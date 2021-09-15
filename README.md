@@ -1,3 +1,4 @@
 # SPSMB-38
 
-prvni commit
+První commit
+Druhý commit
